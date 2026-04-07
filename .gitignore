@@ -6,7 +6,7 @@ __pycache__/
 
 # virtual environment
 .env
-venv/
+.venv/
 env/
 
 # Jupyter
